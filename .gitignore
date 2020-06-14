@@ -2,8 +2,8 @@ node_modules
 npm-debug.log
 .DS_Store
 uploads
-lib
-dist
+#lib
+#dist
 test-results.json
 
 # Logs
