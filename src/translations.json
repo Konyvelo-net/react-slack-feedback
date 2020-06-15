@@ -16,10 +16,10 @@
   "label.channel": "Channel",
   "label.message": "Üzenet",
   "label.type": "Visszajelzés típusa",
-  "placeholder": "Your message...",
-  "submit.sending": "Sending feedback...",
+  "placeholder": "Üzenet...",
+  "submit.sending": "...",
   "submit.sent": "Sent!",
-  "submit.text": "Send Feedback",
+  "submit.text": "Visszajelzés küldése!",
   "upload.text": "Attach Image",
   "trigger.text": "Visszajelzés küldése",
   "footer.text": "React Slack Feedback"
