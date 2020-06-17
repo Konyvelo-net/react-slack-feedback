@@ -283,7 +283,7 @@ class SlackFeedback extends React.Component {
     }))
   }
 
-  renderImageUpload = () => {
+  /* renderImageUpload = () => {
     if (this.state.image.preview) {
       return this.renderImagePreview()
     }
@@ -303,7 +303,7 @@ class SlackFeedback extends React.Component {
         />
       </ImageUpload>
     )
-  }
+  } */
 
   removeImage = event => {
     if (event) event.preventDefault()
@@ -417,7 +417,7 @@ class SlackFeedback extends React.Component {
               />
 
               {/* Only render the image upload if there's callback available  */}
-              {this.props.onImageUpload ? this.renderImageUpload() : null}
+              {/*  {this.props.onImageUpload ? this.renderImageUpload() : null} */}
 
               <SubmitButton
                 disabled={sending || uploadingImage || !this.state.message}
