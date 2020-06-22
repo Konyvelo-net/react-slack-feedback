@@ -64,9 +64,9 @@ const SlackFeedback = styled.div`
   position: fixed;
   font-family: ${theme('fontFamily', 'inherit')};
   z-index: 99999998;
-  bottom: 12px;
+  bottom: 0px;
   right: 0;
-  margin: 1em;
+  margin: 0.5em;
   text-align: left;
   font-weight: ${theme('content.fontWeight', 400)};
 

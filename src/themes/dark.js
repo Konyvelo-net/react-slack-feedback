@@ -10,10 +10,11 @@ export default {
   },
   trigger: {
     color: 'white',
-    hoverColor: 'white',
+    hoverColor: 'black',
     backgroundColor: 'black',
+    hoverBackgroundColor: 'white',
     border: 'none',
-    padding: '14px 1.25em',
+    padding: '8px 8px',
     borderRadius: '6px',
     fontSize: '14px'
   },
